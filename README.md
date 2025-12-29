@@ -1,4 +1,4 @@
-![logo]()
+![logo](WhatsApp Image 2025-12-29 at 9.04.41 AM.jpeg)
 <h1 align="center">Hi 👋, I'm Navneet Pandey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
