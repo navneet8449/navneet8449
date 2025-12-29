@@ -1,5 +1,5 @@
 ![logo](https://github.com/navneet8449/navneet8449/blob/main/WhatsApp%20Image%202025-12-29%20at%209.04.41%20AM.jpeg)
-<h1 align="center">Hey there, I'm Navneet Pandey</h1>
+<h1 align="center">Hey there! I'm Navneet Pandey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt = "Coding" width="400" src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif">
